@@ -54,7 +54,7 @@ global local_time2
 local_time2 = '61'
 
 
-openai.api_key = "sk-oIdUDSWMx31nei4BEZkwUfqc7BmkX8zFgGh7g8r0"
+openai.api_key = "......"
 
 global contacts
 contacts = {"myself": "uspraveenraj@gmail.com","Praveen Raj U S": "uspraveenraj@gmail.com", "me":"uspraveenraj@gmail.com", "mom": "dr.umasundar@gmail.com","dad": "umayampublications@gmail.com","sister":"sivaranjanishyamsundar@gmail.com", "arun": "arunachalam.barathidasan@gmail.com", "president":"arunachalam.barathidasan@gmail.com", }
